@@ -2,7 +2,7 @@
 <plugins>
     <plugin
         id="com.rcunal.plugin_template.demo-plugin"
-        url="https://github.com/rcunal/SfxHelper/blob/main/demo-plugin-1.0-SNAPSHOT.jar"
+        url="https://github.com/rcunal/demo-plugin/blob/main/demo-plugin-1.0-SNAPSHOT.jar"
         version="1.0-SNAPSHOT">
         <idea-version since-build="1"/>
         <change-notes>
